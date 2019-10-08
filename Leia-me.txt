@@ -1,0 +1,21 @@
+Usuario / senha para entrar no sistema:
+junior / Jr123456
+|
+|
+|
+|
+Instale o xampp para usar offiline.
+edite o arquivo database.php dentro da pasta app/config/database.php
+
+$db['default']['hostname'] = 'localhost';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '';
+$db['default']['database'] = 'nome_do_banco';
+
+Apos isto, abra o navegador localhost/phpmyadmin digite um nome do banco para criar 'nome_do_banco' Clique em importar,
+clique em escolher e selecione o arquivo 'banco_de_dados'.sql que foi enviado junto no anexo.
+
+Favor editar o endere�o no arquivo config.php dentro da pasta app.
+localhost/nome_da_pasta_do_sistema
+
+Apos isso dever� estar funcionando corretamente.

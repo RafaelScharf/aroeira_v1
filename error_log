@@ -1,0 +1,4 @@
+[11-Sep-2019 11:08:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home4/repass44/public_html/demo.empresamoderna.com.br/themes/default/views/dashboard.php on line 18
+[11-Sep-2019 11:08:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home4/repass44/public_html/demo.empresamoderna.com.br/themes/default/views/dashboard.php on line 18
+[11-Sep-2019 11:09:44 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home4/repass44/public_html/demo.empresamoderna.com.br/themes/default/views/dashboard.php on line 18
+[24-Sep-2019 16:19:14 America/Sao_Paulo] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home4/repass44/public_html/sistema.empresamoderna/desenvolvimento/emporium/system/libraries/Session/Session.php on line 140
